@@ -42,6 +42,10 @@ a {
     padding: 10px;
     margin-left: 10px;
     background-color: #4B4237;
+    border-radius: 100%;
+}
+#minha_foto {
+    border-radius: 100%;
 }
 .textos {
     padding: 10px;
